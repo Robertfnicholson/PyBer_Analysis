@@ -1,6 +1,8 @@
 # PyBer Challenge
+
 ## Overview of Project
-###Original Project
+
+### Original Project
 In this project, I worked as a data analyst for PyBer, a Python based ride-sharing app company. 
 My assignment was to perform an exploratory analysis on data in some very large CSV files. To 
 aid in the process, I created several types of visualizations to tell a compelling story about the 
@@ -39,27 +41,28 @@ WANGHEN21, “Pyber_challenge.ipynb.” In others I used PyCharm to solve the co
 
 ## Key Reports
 I generated the following key charts for PyBer’s CEO as part of the project: 
-•	Total Fare by City Type multiple line graph
-![Pyber_fare_summary.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/PyBer_fare_summary.png)
+*	Total Fare by City Type multiple line graph
+	![Pyber_fare_summary.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/PyBer_fare_summary.png)
 
-•	PyBer Ride- Sharing Data (2019) bubble chart
+*	PyBer Ride- Sharing Data (2019) bubble chart
 
-![Fig1.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig1.png)
-•	Ride Count Data (2019) box and whisker chart
+	![Fig1.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig1.png)
 
-![Fig2.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig2.png)
+*	Ride Count Data (2019) box and whisker chart
 
-•	Ride Fare Data 2019 box and whisker chart
+	![Fig2.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig2.png)
 
-![Fig3.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig3.png)
+*	Ride Fare Data 2019 box and whisker chart
 
-•	% of Total Fares by City Type pie chart 
+	![Fig3.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig3.png)
 
-![Fig5.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig5.png)
+*	% of Total Fares by City Type pie chart 
+
+	![Fig5.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig5.png)
 </p>
 
 ## Summary
-•	![*](*)
-•	***
-•	.</p>
+*	![*](*)
+*	***
+*	.</p>
 
