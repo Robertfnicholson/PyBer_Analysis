@@ -81,8 +81,8 @@ I generated the following key charts for PyBer’s CEO as part of the project:
 	![Fig3.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig3.png)
 	
 *	% of Total Fares by City Type pie chart 
-	![Fig5.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig5.png)
-</p>
+	![Fig5.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig5.png)</p>
+
 ## Summary
 
 Recommend the following to address the disparities among the city types:
