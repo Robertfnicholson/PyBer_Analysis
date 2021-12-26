@@ -38,11 +38,38 @@ WANGHEN21, “Pyber_challenge.ipynb.” In others I used PyCharm to solve the co
 
 ## Results:
 
+### PyBer Ride Sharing Data Summary Table
+
+The following table provides a summary of the PyBer ride sharing data.
+
+![PyBer_Summary_Table.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/7672dd56a1e51ac607962f52e97839fc78759b49/Resources/analysis/PyBer_Summary_Table.png). 
+
+Urban areas had 13.0 times more rides than under-served rural areas and 2.6 times more rides 
+than suburban areas. Urban areas also had 111.0 times more potential drivers than rural areas 
+and 7.0 times more potential drivers than suburban areas. For total fares urban areas had 9.2 
+times more total fares than rural areas and 2.1 times more total fares than suburban areas. The 
+order of magnitude between urban areas and suburban and rural areas decreased compared to 
+total rides as more potential drivers in urban areas decreased the fares charged and / or fewer 
+drivers in rural and suburban areas resulted in higher fares in those city types. This is 
+demonstrated in both the average fare per ride and the average fare per driver. Rural areas had 
+the highest average fare per ride and urban areas had the lowest with suburban areas falling 
+between rural and urban. Rural drivers received the highest fares, 12.0 times higher than urban 
+drivers and 3.6 times higher than suburban areas. It is unclear the impact of distance traveled 
+or time of each ride on ride sharing fares as this was not part of the data set.  </p>
+
+### PyBer Ride Sharing Total Fare By City Type Multiple Line Graph
+The following multiple line graph provides total fare by city type:
+
+![Pyber_fare_summary.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/PyBer_fare_summary.png).
+
+The graph provides a visualization of the total fares to show the relationship between city type 
+and total fares. The graph provides a different perspective than the summary table. Unlike the 
+summary table, the graph provides fare total by city type by day over the full timeframe of the 
+data series. This shows the relationship between the city types and total fares daily. </p>
 
 ## Key Reports
+
 I generated the following key charts for PyBer’s CEO as part of the project: 
-*	Total Fare by City Type multiple line graph
-	![Pyber_fare_summary.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/PyBer_fare_summary.png)
 
 *	PyBer Ride- Sharing Data (2019) bubble chart
 
@@ -62,7 +89,14 @@ I generated the following key charts for PyBer’s CEO as part of the project:
 </p>
 
 ## Summary
-*	![*](*)
-*	***
-*	.</p>
+
+Recommend the following to address the disparities among the city types:
+
+*	Get distance traveled or total time of each ride in order to examine the impact on driver 
+	count and fares.
+*	Publish the findings upon the CEO’s review and feedback to assist our stakeholders 
+	including riders and drivers. The findings may prompt drivers to cover rural and 
+	suburban areas given the higher fare rates.
+*	Complete a follow up analysis that includes distance traveled or total time of each ride 
+	and publish these results.</p>
 
