@@ -64,8 +64,8 @@ The following multiple line graph provides total fare by city type:
 
 The graph provides a visualization of the total fares to show the relationship between city type 
 and total fares. The graph provides a different perspective than the summary table. Unlike the 
-summary table, the graph provides fare total by city type by day over the full timeframe of the 
-data series. This shows the relationship between the city types and total fares daily. </p>
+summary table, the graph provides fare total by city type **by day** over the full timeframe of the 
+data series. This shows the relationship between the city types and total fares **daily**. </p>
 
 ## Key Reports
 
@@ -83,7 +83,6 @@ I generated the following key charts for PyBer’s CEO as part of the project:
 *	% of Total Fares by City Type pie chart 
 	![Fig5.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig5.png)
 </p>
-
 ## Summary
 
 Recommend the following to address the disparities among the city types:
