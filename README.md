@@ -60,7 +60,7 @@ or time of each ride on ride sharing fares as this was not part of the data set.
 ### PyBer Ride Sharing Total Fare By City Type Multiple Line Graph
 The following multiple line graph provides total fare by city type:
 
-![Pyber_fare_summary.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/PyBer_fare_summary.png).
+![Pyber_fare_summary.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/PyBer_fare_summary.png)
 
 The graph provides a visualization of the total fares to show the relationship between city type 
 and total fares. The graph provides a different perspective than the summary table. Unlike the 
@@ -72,19 +72,15 @@ data series. This shows the relationship between the city types and total fares 
 I generated the following key charts for PyBer’s CEO as part of the project: 
 
 *	PyBer Ride- Sharing Data (2019) bubble chart
-
 	![Fig1.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig1.png)
 
 *	Ride Count Data (2019) box and whisker chart
-
 	![Fig2.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig2.png)
 
 *	Ride Fare Data 2019 box and whisker chart
-
 	![Fig3.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig3.png)
-
+	
 *	% of Total Fares by City Type pie chart 
-
 	![Fig5.png](https://github.com/Robertfnicholson/PyBer_Analysis/blob/9c11d20f3af177504a65b3323e5f91e88375ff63/Resources/analysis/Fig5.png)
 </p>
 
