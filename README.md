@@ -9,14 +9,15 @@ aid in the process, I created several types of visualizations to tell a compelli
 data. I wrote Python scripts using Panda’s libraries, the Jupyter Notebook, and Matplotlib, 
 Python’s two-dimensional plotting library, to create a variety of charts that showcase the 
 relationship between the type of city and the number of drivers and riders as well as the 
-percentage of total fares, riders, and drivers by type of city. The analysis and visualizations that 
-I created helped PyBer improve access to ride-sharing services and determine affordability for 
-underserved neighborhoods. Omar, my supervisor at PyBer, provided a series of practices for 
-me to learn the Matplotlib library. This included creating line charts, bar charts, scatter plots, 
-bubble charts, pie charts, and box-and-whisker plots, and making them visually compelling and 
-informative by adding titles, axes labels, legends, and custom colors. Omar also introduced me 
-to SciPy, a statistical Python package, and NumPy, a fundamental package for scientific 
-computing in Python. I used Pandas, SciPy, and NumPy to perform summary statistics. </p>
+percentage of total fares, riders, and drivers by type of city. My code can be found in the file
+"PyBer_Challenge.ipynb." The analysis and visualizations that I created helped PyBer improve 
+access to ride-sharing services and determine affordability for underserved neighborhoods. Omar, 
+my supervisor at PyBer, provided a series of practices for me to learn the Matplotlib library. 
+This included creating line charts, bar charts, scatter plots, bubble charts, pie charts, and 
+box-and-whisker plots, and making them visually compelling and informative by adding titles, 
+axes labels, legends, and custom colors. Omar also introduced me to SciPy, a statistical Python 
+package, and NumPy, a fundamental package for scientific computing in Python. I used Pandas, 
+SciPy, and NumPy to perform summary statistics. </p>
 
 ### Revision of the Project
 V. Isualize, the CEO of PyBer, gave Omar and me a brand-new assignment. Using my Python 
